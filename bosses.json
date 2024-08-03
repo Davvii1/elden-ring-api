@@ -1,0 +1,450 @@
+[
+  {
+    "name": "Adan, el Ladrón del Fuego",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/9/9b/Adan%2C_el_Ladr%C3%B3n_del_Fuego.png/revision/latest/scale-to-width-down/350?cb=20230621061518&path-prefix=es"
+  },
+  {
+    "name": "Adula, dragón de piedra refulgente",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/9/9c/Adula%2C_drag%C3%B3n_de_piedra_refulgente.png/revision/latest/scale-to-width-down/350?cb=20230621062737&path-prefix=es"
+  },
+  {
+    "name": "Alecto, líder de los Cuchillos Negros",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/c/c4/Alecto.jpg/revision/latest/scale-to-width-down/273?cb=20230621055111&path-prefix=es"
+  },
+  {
+    "name": "Ancestro de la putrefacción",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/7/71/Ancestro_de_la_putrefacci%C3%B3n.png/revision/latest/scale-to-width-down/350?cb=20230621064055&path-prefix=es"
+  },
+  {
+    "name": "Antigua dragona Lansseax",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/f/fe/Antigua_dragona_Lansseax.png/revision/latest/scale-to-width-down/350?cb=20230619044107&path-prefix=es"
+  },
+  {
+    "name": "Apóstol sacrodermo",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/f/f8/Ap%C3%B3stol_sacrodermo.png/revision/latest/scale-to-width-down/350?cb=20230619040024&path-prefix=es"
+  },
+  {
+    "name": "Asesina de los Cuchillos Negros",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/2/2a/Asesina_de_los_Cuchillos_Negros.png/revision/latest/scale-to-width-down/350?cb=20230619050308&path-prefix=es"
+  },
+  {
+    "name": "Asesino de augurios",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/0/03/Asesino_de_augurios.png/revision/latest/scale-to-width-down/350?cb=20230629035927&path-prefix=es"
+  },
+  {
+    "name": "Astel, el astro fosco",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/1/19/Astel%2C_el_astro_fosco.png/revision/latest/scale-to-width-down/350?cb=20230621060438&path-prefix=es"
+  },
+  {
+    "name": "Astel, Innato del Vacío",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/2/24/Astel%2C_Innato_del_Vac%C3%ADo.png/revision/latest/scale-to-width-down/350?cb=20230425201939&path-prefix=es"
+  },
+  {
+    "name": "Avatar del Árbol Áureo",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/2/21/Avatar_del_%C3%81rbol_%C3%81ureo.png/revision/latest/scale-to-width-down/350?cb=20230701005300&path-prefix=es"
+  },
+  {
+    "name": "Avatar putrefacto",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/8/86/Avatar_putrefacto.png/revision/latest/scale-to-width-down/350?cb=20230701112026&path-prefix=es"
+  },
+  {
+    "name": "Ave de la muerte",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/7/70/Ave_de_la_muerte.png/revision/latest/scale-to-width-down/350?cb=20230701113234&path-prefix=es"
+  },
+  {
+    "name": "Ave del ritual fúnebre",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/7/72/Ave_del_ritual_f%C3%BAnebre.png/revision/latest/scale-to-width-down/350?cb=20230701122023&path-prefix=es"
+  },
+  {
+    "name": "Barquero tibial",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/0/08/Barquero_tibial_%28Picos%29.png/revision/latest/scale-to-width-down/350?cb=20230702132856&path-prefix=es"
+  },
+  {
+    "name": "Bastardo escamoso",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/f/fc/Bastardo_escamoso.jpg/revision/latest/scale-to-width-down/298?cb=20230705024832&path-prefix=es"
+  },
+  {
+    "name": "Bastardo leonino",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/7/70/Bastardo_leonino.png/revision/latest/scale-to-width-down/350?cb=20230604020553&path-prefix=es"
+  },
+  {
+    "name": "Bestia adulta de la Estrella fugaz",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/e/e8/Bestia_adulta_de_la_Estrella_fugaz.png/revision/latest/scale-to-width-down/350?cb=20230705033152&path-prefix=es"
+  },
+  {
+    "name": "Bestia de la Estrella fugaz",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/e/e6/Bestia_de_la_Estrella_fugaz.png/revision/latest/scale-to-width-down/350?cb=20230705031411&path-prefix=es"
+  },
+  {
+    "name": "Bestia del Círculo",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/2/24/Bestia_del_C%C3%ADrculo.png/revision/latest/scale-to-width-down/350?cb=20230419224358&path-prefix=es"
+  },
+  {
+    "name": "Bols, caballero cariano",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/6/6b/Bols%2C_caballero_cariano.png/revision/latest/scale-to-width-down/350?cb=20230705035257&path-prefix=es"
+  },
+  {
+    "name": "Boreal, la niebla gélida",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/c/c2/Boreal%2C_la_niebla_g%C3%A9lida.png/revision/latest/scale-to-width-down/350?cb=20230705042154&path-prefix=es"
+  },
+  {
+    "name": "Caballera del crisol Siluria",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/1/15/Caballera_del_crisol_Siluria.png/revision/latest/scale-to-width-down/350?cb=20230707013809&path-prefix=es"
+  },
+  {
+    "name": "Caballero del crisol",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/a/a5/Caballero_del_crisol.png/revision/latest/scale-to-width-down/350?cb=20230709012302&path-prefix=es"
+  },
+  {
+    "name": "Caballero del crisol Ordovis",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/2/2c/Caballero_del_crisol_Ordovis.jpg/revision/latest/scale-to-width-down/313?cb=20230709025458&path-prefix=es"
+  },
+  {
+    "name": "Caballero Imputrescible",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/f/fc/Caballero_Imputrescible.jpg/revision/latest/scale-to-width-down/336?cb=20230709033716&path-prefix=es"
+  },
+  {
+    "name": "Caballero sabueso",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/c/c2/Caballero_sabueso.png/revision/latest/scale-to-width-down/350?cb=20230712054441&path-prefix=es"
+  },
+  {
+    "name": "Caballero sabueso Darriwil",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/d/dd/Caballero_sabueso_Darriwil.jpg/revision/latest/scale-to-width-down/350?cb=20230712060410&path-prefix=es"
+  },
+  {
+    "name": "Caballero Vyke de la Mesa Redonda",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/2/23/Caballero_Vyke_de_la_Mesa_Redonda.png/revision/latest/scale-to-width-down/350?cb=20230712063343&path-prefix=es"
+  },
+  {
+    "name": "Caballería nocturna",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/1/15/Caballer%C3%ADa_nocturna.png/revision/latest/scale-to-width-down/350?cb=20230707020213&path-prefix=es"
+  },
+  {
+    "name": "Campeones de Fia",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/0/04/Campeones_de_Fia.png/revision/latest/scale-to-width-down/350?cb=20230713043612&path-prefix=es"
+  },
+  {
+    "name": "Caracola invocadora",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/6/6d/Caracola_invocadora.jpg/revision/latest/scale-to-width-down/287?cb=20230715054351&path-prefix=es"
+  },
+  {
+    "name": "Caragusano",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/0/0a/Caragusano.png/revision/latest/scale-to-width-down/350?cb=20230719053401&path-prefix=es"
+  },
+  {
+    "name": "Cazador de esferas",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/c/c8/Cazador_de_esferas.png/revision/latest/scale-to-width-down/350?cb=20230719055430&path-prefix=es"
+  },
+  {
+    "name": "Centinela agreste",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/3/3e/Centinela_agreste.jpg/revision/latest/scale-to-width-down/350?cb=20230719062237&path-prefix=es"
+  },
+  {
+    "name": "Centinela agreste draconiano",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/7/7b/Centinela_agreste_draconiano.png/revision/latest/scale-to-width-down/350?cb=20230720040837&path-prefix=es"
+  },
+  {
+    "name": "Clérigo bestia",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/6/6c/Cl%C3%A9rigo_bestia.png/revision/latest/scale-to-width-down/350?cb=20230425195940&path-prefix=es"
+  },
+  {
+    "name": "Comandante Niall",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/c/c8/Comandante_Niall.png/revision/latest/scale-to-width-down/350?cb=20230605051538&path-prefix=es"
+  },
+  {
+    "name": "Comandante O'Neil",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/3/3f/Comandante_ONeil.png/revision/latest/scale-to-width-down/292?cb=20230720045456&path-prefix=es"
+  },
+  {
+    "name": "Cristaliano",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/5/57/Cristaliano_%28lanza%29.jpg/revision/latest/scale-to-width-down/209?cb=20230723035928&path-prefix=es"
+  },
+  {
+    "name": "Dragón de magma",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/0/04/Drag%C3%B3n_de_magma.png/revision/latest/scale-to-width-down/350?cb=20230726054726&path-prefix=es"
+  },
+  {
+    "name": "Dragón de magma Makar",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/7/74/Drag%C3%B3n_de_magma_Makar.png/revision/latest/scale-to-width-down/350?cb=20230605052823&path-prefix=es"
+  },
+  {
+    "name": "Dragón liche Fortissax",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/c/c2/Drag%C3%B3n_liche_Fortissax.png/revision/latest/scale-to-width-down/350?cb=20230425200905&path-prefix=es"
+  },
+  {
+    "name": "Dragón volador Agheel",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/a/a9/Drag%C3%B3n_volador_Agheel.png/revision/latest/scale-to-width-down/350?cb=20230803044055&path-prefix=es"
+  },
+  {
+    "name": "Dragón volador Greyll",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/2/2f/Drag%C3%B3n_volador_Greyll.png/revision/latest/scale-to-width-down/350?cb=20230803052411&path-prefix=es"
+  },
+  {
+    "name": "Duelista frenético",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/c/c3/Duelista_fren%C3%A9tico.png/revision/latest/scale-to-width-down/350?cb=20230809050307&path-prefix=es"
+  },
+  {
+    "name": "Duelista guardián de las tumbas",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/d/d8/Duelista_%28hacha%29.png/revision/latest/scale-to-width-down/313?cb=20230805052341&path-prefix=es"
+  },
+  {
+    "name": "Duelista guardián de las tumbas putrefacto",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/4/40/Duelista_putrefacto_%28hacha%29.png/revision/latest/scale-to-width-down/276?cb=20230809044925&path-prefix=es"
+  },
+  {
+    "name": "Dúo sacrodermo",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/c/cf/D%C3%BAo_sacrodermo.png/revision/latest/scale-to-width-down/350?cb=20230605055645&path-prefix=es"
+  },
+  {
+    "name": "Ekzykes, el decadente",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/9/93/Ekzykes%2C_el_decadente.png/revision/latest/scale-to-width-down/350?cb=20230821062320&path-prefix=es"
+  },
+  {
+    "name": "Elemer de la Zarza",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/f/fd/Elemer_de_la_Zarza.png/revision/latest/scale-to-width-down/350?cb=20230606034812&path-prefix=es"
+  },
+  {
+    "name": "Esgar, Sacerdote de la Sangre",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/9/94/Esgar%2C_Sacerdote_de_la_Sangre.png/revision/latest/scale-to-width-down/350?cb=20230821061043&path-prefix=es"
+  },
+  {
+    "name": "Espadachina de Nox y Monje de Nox",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/d/db/Espadachina_de_Nox_y_Monje_de_Nox.png/revision/latest/scale-to-width-down/350?cb=20230817053606&path-prefix=es"
+  },
+  {
+    "name": "Espíritu ancestral",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/3/3a/Esp%C3%ADritu_ancestral.png/revision/latest/scale-to-width-down/350?cb=20230606040817&path-prefix=es"
+  },
+  {
+    "name": "Espíritu ancestral majestuoso",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/8/83/Esp%C3%ADritu_ancestral_majestuoso.png/revision/latest/scale-to-width-down/350?cb=20230425203745&path-prefix=es"
+  },
+  {
+    "name": "Espíritu del árbol putrefacto",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/0/0b/Esp%C3%ADritu_del_%C3%A1rbol_putrefacto.png/revision/latest/scale-to-width-down/350?cb=20230820063153&path-prefix=es"
+  },
+  {
+    "name": "Espíritu del árbol ulcerado",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/d/d2/Esp%C3%ADritu_del_%C3%A1rbol_ulcerado.png/revision/latest/scale-to-width-down/350?cb=20230820061920&path-prefix=es"
+  },
+  {
+    "name": "Fiel de la Hoja Negra",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/6/6c/Fiel_de_la_Hoja_Negra.png/revision/latest/scale-to-width-down/350?cb=20230827190857&path-prefix=es"
+  },
+  {
+    "name": "Gemelos Caídos",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/a/a8/Gemelo_Ca%C3%ADdo_%28machete%29.jpg/revision/latest/scale-to-width-down/350?cb=20230827192931&path-prefix=es"
+  },
+  {
+    "name": "Gigante de fuego",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/f/f8/Gigante_de_fuego.png/revision/latest/scale-to-width-down/350?cb=20230425204606&path-prefix=es"
+  },
+  {
+    "name": "Gilika, la reina semihumana",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/b/b4/Gilika.png/revision/latest/scale-to-width-down/350?cb=20231011224524&path-prefix=es"
+  },
+  {
+    "name": "Godefroy, el Injertado",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/0/0a/Godefroy%2C_el_Injertado.png/revision/latest/scale-to-width-down/350?cb=20230405202934&path-prefix=es"
+  },
+  {
+    "name": "Godfrey, primer Señor del Círculo",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/c/ca/Godfrey%2C_primer_Se%C3%B1or_del_C%C3%ADrculo.png/revision/latest/scale-to-width-down/350?cb=20230404224728&path-prefix=es"
+  },
+  {
+    "name": "Godfrey, primer Señor del Círculo (sombra dorada)",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/d/d4/Godfrey%2C_primer_Se%C3%B1or_del_C%C3%ADrculo_%28sombra_dorada%29.png/revision/latest/scale-to-width-down/350?cb=20230606045817&path-prefix=es"
+  },
+  {
+    "name": "Godrick, el Injertado",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/c/ce/Godrick%2C_el_Injertado.png/revision/latest/scale-to-width-down/350?cb=20230405201252&path-prefix=es"
+  },
+  {
+    "name": "Gran dragón de magma Theodorix",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/9/92/Theodorix.png/revision/latest/scale-to-width-down/350?cb=20231012175026&path-prefix=es"
+  },
+  {
+    "name": "Guardia Real Loretta",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/c/c4/Guardia_Real_Loretta.png/revision/latest/scale-to-width-down/350?cb=20230606050432&path-prefix=es"
+  },
+  {
+    "name": "Guerrero bastardo",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/a/ab/Guerrero_bastardo.jpg/revision/latest/scale-to-width-down/285?cb=20231012181720&path-prefix=es"
+  },
+  {
+    "name": "Gárgolas denodadas",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/4/45/G%C3%A1rgolas_denodadas.png/revision/latest/scale-to-width-down/350?cb=20230606042108&path-prefix=es"
+  },
+  {
+    "name": "Gólem guardián",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/b/b1/G%C3%B3lem_con_alabarda.png/revision/latest/scale-to-width-down/221?cb=20231011230013&path-prefix=es"
+  },
+  {
+    "name": "Hombre bestia de Farum Azula",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/0/09/Hombre_bestia_%28espada_curva%29.png/revision/latest/scale-to-width-down/253?cb=20231018211343&path-prefix=es"
+  },
+  {
+    "name": "Jefe semihumano",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/6/66/Jefes_semihumanos.png/revision/latest/scale-to-width-down/350?cb=20240617045608&path-prefix=es"
+  },
+  {
+    "name": "Lobo Rojo de Radagon",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/7/73/Lobo_Rojo_de_Radagon.png/revision/latest/scale-to-width-down/350?cb=20230610222646&path-prefix=es"
+  },
+  {
+    "name": "Lobo Rojo del Campeón",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/6/68/Lobo_Rojo_del_Campe%C3%B3n.png/revision/latest/scale-to-width-down/350?cb=20240721042206&path-prefix=es"
+  },
+  {
+    "name": "Loretta, centinela del Árbol Hierático",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/7/75/Loretta%2C_centinela_del_%C3%81rbol_Hier%C3%A1tico.png/revision/latest/scale-to-width-down/350?cb=20230610223245&path-prefix=es"
+  },
+  {
+    "name": "Lunático calabezudo",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/6/66/Lun%C3%A1tico_calabezudo.png/revision/latest/scale-to-width-down/350?cb=20240721055953&path-prefix=es"
+  },
+  {
+    "name": "Lágrima mimética",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/c/cd/L%C3%A1grima_mim%C3%A9tica.png/revision/latest/scale-to-width-down/350?cb=20230606053438&path-prefix=es"
+  },
+  {
+    "name": "Maggie, la reina semihumana",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/1/10/Maggie%2C_la_reina_semihumana.png/revision/latest/scale-to-width-down/350?cb=20240721051419&path-prefix=es"
+  },
+  {
+    "name": "Mago guerrero Hugues",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/f/f7/Mago_guerrero_Hugues.png/revision/latest/scale-to-width-down/350?cb=20240721052443&path-prefix=es"
+  },
+  {
+    "name": "Malenia, la Espada de Miquella",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/b/b0/Malenia%2C_la_Espada_de_Miquella.png/revision/latest/scale-to-width-down/350?cb=20230404033120&path-prefix=es"
+  },
+  {
+    "name": "Maliketh, la Hoja Negra",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/2/26/Maliketh%2C_la_Hoja_Negra.png/revision/latest/scale-to-width-down/350?cb=20230405195230&path-prefix=es"
+  },
+  {
+    "name": "Margit, el Augurio Caído",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/b/b5/Margit%2C_el_Augurio_Ca%C3%ADdo.png/revision/latest/scale-to-width-down/350?cb=20230610230000&path-prefix=es"
+  },
+  {
+    "name": "Margot, la reina semihumana",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/5/54/Margot%2C_la_reina_semihumana.png/revision/latest/scale-to-width-down/350?cb=20240721052921&path-prefix=es"
+  },
+  {
+    "name": "Miranda, la flor marchita",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/6/61/Miranda%2C_la_flor_marchita.png/revision/latest/scale-to-width-down/350?cb=20240721054204&path-prefix=es"
+  },
+  {
+    "name": "Mohg, el Augurio",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/d/d9/Mohg%2C_el_Augurio.png/revision/latest/scale-to-width-down/350?cb=20230701124827&path-prefix=es"
+  },
+  {
+    "name": "Mohg, Señor de la Sangre",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/2/2b/Mohg_cinem%C3%A1tica.jpg/revision/latest/scale-to-width-down/350?cb=20230629050508&path-prefix=es"
+  },
+  {
+    "name": "Morgott, rey de los Augurios",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/6/6f/Morgott%2C_rey_de_los_Augurios.png/revision/latest/scale-to-width-down/350?cb=20230405191602&path-prefix=es"
+  },
+  {
+    "name": "Nigromante Garris",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/b/b9/Nigromante_Garris.png/revision/latest/scale-to-width-down/350?cb=20240721192555&path-prefix=es"
+  },
+  {
+    "name": "Noble sacrodermo",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/2/24/Noble_sacrodermo.png/revision/latest/scale-to-width-down/350?cb=20230610231709&path-prefix=es"
+  },
+  {
+    "name": "Noble sanguino",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/3/3b/Noble_sanguino.png/revision/latest/scale-to-width-down/237?cb=20240721193514&path-prefix=es"
+  },
+  {
+    "name": "Oso rúnico",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/7/7a/Oso_r%C3%BAnico.png/revision/latest/scale-to-width-down/350?cb=20240721195630&path-prefix=es"
+  },
+  {
+    "name": "Paladín bastardo",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/a/a0/Palad%C3%ADn_bastardo.png/revision/latest/scale-to-width-down/350?cb=20240721201048&path-prefix=es"
+  },
+  {
+    "name": "Perfumista Tricia",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/f/f3/Guerrero_bastardo_y_Tricia.jpg/revision/latest/scale-to-width-down/350?cb=20231012181738&path-prefix=es"
+  },
+  {
+    "name": "Perro guardián funerario del Árbol Áureo",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/6/6a/Perro_guardi%C3%A1n_funerario_del_%C3%81rbol_%C3%81ureo.png/revision/latest/scale-to-width-down/350?cb=20240721204917&path-prefix=es"
+  },
+  {
+    "name": "Radagon de la Orden Dorada",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/d/de/Radagon_de_la_Orden_Dorada.png/revision/latest/scale-to-width-down/350?cb=20230404230905&path-prefix=es"
+  },
+  {
+    "name": "Radahn, Azote de las Estrellas",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/2/22/Radahn.png/revision/latest/scale-to-width-down/350?cb=20230629052349&path-prefix=es"
+  },
+  {
+    "name": "Renacido regio",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/4/41/Renacido_regio.png/revision/latest/scale-to-width-down/350?cb=20231018215427&path-prefix=es"
+  },
+  {
+    "name": "Rennala, Reina de la Luna Llena",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/d/db/Rennala%2C_Reina_de_la_Luna_Llena.png/revision/latest/scale-to-width-down/350?cb=20230405184144&path-prefix=es"
+  },
+  {
+    "name": "Rykard, señor de la Blasfemia",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/6/69/Rykard%2C_se%C3%B1or_de_la_Blasfemia.png/revision/latest/scale-to-width-down/350?cb=20230404221920&path-prefix=es"
+  },
+  {
+    "name": "Serpiente devoradioses",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/d/d6/Serpiente_devoradioses.png/revision/latest/scale-to-width-down/350?cb=20230522230833&path-prefix=es"
+  },
+  {
+    "name": "Señor de ónice",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/5/55/Se%C3%B1or_de_%C3%B3nice.png/revision/latest/scale-to-width-down/350?cb=20240721213929&path-prefix=es"
+  },
+  {
+    "name": "Señor dragón Placidusax",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/e/e9/Se%C3%B1or_drag%C3%B3n_Placidusax.png/revision/latest/scale-to-width-down/350?cb=20230425205343&path-prefix=es"
+  },
+  {
+    "name": "Sir Gideon Ofnir el Omnisciente (jefe)",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/4/44/Sir_Gideon_Ofnir_el_Omnisciente.png/revision/latest/scale-to-width-down/350?cb=20230429223019&path-prefix=es"
+  },
+  {
+    "name": "Smarag, dragón de piedra refulgente",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/f/fd/Smarag%2C_drag%C3%B3n_de_piedra_refulgente.png/revision/latest/scale-to-width-down/350?cb=20240723011610&path-prefix=es"
+  },
+  {
+    "name": "Soldado de Godrick",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/6/6c/Soldado_de_Godrick_%28espada%29.png/revision/latest/scale-to-width-down/282?cb=20240723012514&path-prefix=es"
+  },
+  {
+    "name": "Soldado draconiano",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/c/c9/Soldado_draconiano.png/revision/latest/scale-to-width-down/350?cb=20240723020004&path-prefix=es"
+  },
+  {
+    "name": "Soldado draconiano de Nokstella",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/e/e7/Soldado_draconiano_de_Nokstella.png/revision/latest/scale-to-width-down/350?cb=20230610235349&path-prefix=es"
+  },
+  {
+    "name": "Sombra de cementerio",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/f/f4/Sombra_de_cementerio.png/revision/latest/scale-to-width-down/350?cb=20240723022011&path-prefix=es"
+  },
+  {
+    "name": "Trol excavapiedra",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/9/92/Trol_excavapiedra.png/revision/latest/scale-to-width-down/350?cb=20240723024834&path-prefix=es"
+  },
+  {
+    "name": "Viejo héroe de Zamor",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/4/45/Viejo_h%C3%A9roe_de_Zamor.png/revision/latest/scale-to-width-down/350?cb=20240723030235&path-prefix=es"
+  },
+  {
+    "name": "Vástago injertado",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/6/65/V%C3%A1stago_injertado.png/revision/latest/scale-to-width-down/350?cb=20240617035958&path-prefix=es"
+  },
+  {
+    "name": "Vírgenes raptoras",
+    "image": "https://static.wikia.nocookie.net/eldenring/images/5/53/V%C3%ADrgenes_raptoras.jpg/revision/latest/scale-to-width-down/350?cb=20240723033711&path-prefix=es"
+  }
+]
